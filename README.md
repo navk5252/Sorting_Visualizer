@@ -20,13 +20,5 @@ A web application to visualize various sorting algorithms in real-time. This pro
 - ***Generate Array:*** Click the "Generate New Array" button to create a new array of random numbers.
 - ***Start Sorting:*** Click the "Sort" button to begin the sorting process. Watch the bars move and sort in real-time with their heights displayed.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or suggestions, feel free to reach out.
-
-- ***rk valandasu:*** valandasuramakrishna@gmail.com
-- ***GitHub:*** rkvalandas
